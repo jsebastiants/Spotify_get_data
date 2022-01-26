@@ -2,6 +2,7 @@
 A project to extract, transform and load data in real time from Spotify to a database in Amazon RDS
 
 By: Sebastian Torres from (https://www.linkedin.com/in/sebastian-torres-a35840181/)
+
 January 26,2022
 
 # Spotify API
